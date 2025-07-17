@@ -33,4 +33,8 @@
   .footer-link {
     margin: 0 10px;
   }
+
+  .footer-link:hover {
+    text-decoration: underline;
+  }
 </style>
